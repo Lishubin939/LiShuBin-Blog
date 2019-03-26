@@ -8,7 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>hello-spring-cloud-alibaba-dependencies</name>
+    <name>lishubin-blog-dependencies</name>
     <url>http://www.lishubin.work</url>
     <inceptionYear>2019-Now</inceptionYear>
 

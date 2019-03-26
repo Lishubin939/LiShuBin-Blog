@@ -10,5 +10,7 @@
 - Java8
 
 ## 项目结构说明
-- 
+- lishubin-blog-frontend 前端模块
 - LiShuBin-Blog-Dependencies 项目依赖管理
+- lishubin-blog-user 用户管理模块
+- lishubin-blog-article 文章管理模块
